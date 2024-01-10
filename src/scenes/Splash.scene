@@ -1,0 +1,88 @@
+{
+    "id": "59e9bda2-6e3d-49a3-bb5c-97cb40a73eba",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Splash",
+        "borderWidth": 1080,
+        "borderHeight": 1920
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "469c979b-454a-4b38-8982-faa180584bcb",
+            "label": "bglayer",
+            "components": [],
+            "texture": {
+                "key": "bglayer"
+            },
+            "x": 540,
+            "y": 960
+        },
+        {
+            "type": "Image",
+            "id": "5b61fbab-0036-47c6-b8d6-23fd70d23c4c",
+            "label": "logo",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "logo"
+            },
+            "x": 540,
+            "y": 675,
+            "scaleX": 1.5,
+            "scaleY": 1.5
+        },
+        {
+            "type": "Image",
+            "id": "347fc436-df30-42f8-a306-9925cdde250d",
+            "label": "play_btn",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "play-btn"
+            },
+            "x": 540,
+            "y": 1371,
+            "scaleX": 1.5,
+            "scaleY": 1.5
+        },
+        {
+            "type": "Image",
+            "id": "b3dea6c4-5681-4daf-8776-f52f94b62da2",
+            "label": "play_btn_text",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "play-btn-text"
+            },
+            "x": 540,
+            "y": 1499,
+            "scaleX": 1.5,
+            "scaleY": 1.5
+        },
+        {
+            "type": "Image",
+            "id": "143cf53d-c1d6-447f-b5ce-8868ee25d062",
+            "label": "volume_on",
+            "useGameObjectName": true,
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "volume-on"
+            },
+            "x": 96,
+            "y": 138,
+            "scaleX": 1.5,
+            "scaleY": 1.5
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 3
+    }
+}

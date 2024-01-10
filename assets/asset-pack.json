@@ -1,0 +1,198 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/images/color-wall/blue.png",
+                "type": "image",
+                "key": "blue"
+            },
+            {
+                "url": "assets/images/Ball/blue-ball.png",
+                "type": "image",
+                "key": "blue-ball"
+            },
+            {
+                "url": "assets/images/partical_ball/blue-particle.png",
+                "type": "image",
+                "key": "blue-particle"
+            },
+            {
+                "url": "assets/images/star/blue-star.png",
+                "type": "image",
+                "key": "blue-star"
+            },
+            {
+                "url": "assets/images/color-wall/dark-purple.png",
+                "type": "image",
+                "key": "dark-purple"
+            },
+            {
+                "url": "assets/images/Ball/dark-purple-ball.png",
+                "type": "image",
+                "key": "dark-purple-ball"
+            },
+            {
+                "url": "assets/images/partical_ball/dark-purple-particle.png",
+                "type": "image",
+                "key": "dark-purple-particle"
+            },
+            {
+                "url": "assets/images/star/dark-purple-star.png",
+                "type": "image",
+                "key": "dark-purple-star"
+            },
+            {
+                "url": "assets/images/gameOverScreen/game-over-text.png",
+                "type": "image",
+                "key": "game-over-text"
+            },
+            {
+                "url": "assets/images/color-wall/green.png",
+                "type": "image",
+                "key": "green"
+            },
+            {
+                "url": "assets/images/Ball/green-ball.png",
+                "type": "image",
+                "key": "green-ball"
+            },
+            {
+                "url": "assets/images/partical_ball/green-particle.png",
+                "type": "image",
+                "key": "green-particle"
+            },
+            {
+                "url": "assets/images/star/green-star.png",
+                "type": "image",
+                "key": "green-star"
+            },
+            {
+                "url": "assets/images/gameOverScreen/home_btn.png",
+                "type": "image",
+                "key": "home_btn"
+            },
+            {
+                "url": "assets/images/color-wall/light-yellow.png",
+                "type": "image",
+                "key": "light-yellow"
+            },
+            {
+                "url": "assets/images/Ball/orange-ball.png",
+                "type": "image",
+                "key": "orange-ball"
+            },
+            {
+                "url": "assets/images/star/orange-star.png",
+                "type": "image",
+                "key": "orange-star"
+            },
+            {
+                "url": "assets/images/Ball/pink-ball.png",
+                "type": "image",
+                "key": "pink-ball"
+            },
+            {
+                "url": "assets/images/star/pink-star.png",
+                "type": "image",
+                "key": "pink-star"
+            },
+            {
+                "url": "assets/images/splash/play-btn.png",
+                "type": "image",
+                "key": "play-btn"
+            },
+            {
+                "url": "assets/images/splash/play-btn-text.png",
+                "type": "image",
+                "key": "play-btn-text"
+            },
+            {
+                "url": "assets/images/color-wall/purple.png",
+                "type": "image",
+                "key": "purple"
+            },
+            {
+                "url": "assets/images/color-wall/red.png",
+                "type": "image",
+                "key": "red"
+            },
+            {
+                "url": "assets/images/Ball/red-ball.png",
+                "type": "image",
+                "key": "red-ball"
+            },
+            {
+                "url": "assets/images/partical_ball/red-particle.png",
+                "type": "image",
+                "key": "red-particle"
+            },
+            {
+                "url": "assets/images/star/red-star.png",
+                "type": "image",
+                "key": "red-star"
+            },
+            {
+                "url": "assets/images/gameOverScreen/reply_btn.png",
+                "type": "image",
+                "key": "reply_btn"
+            },
+            {
+                "url": "assets/images/gameOverScreen/score-Board.png",
+                "type": "image",
+                "key": "score-Board"
+            },
+            {
+                "url": "assets/images/color-wall/sky-blue.png",
+                "type": "image",
+                "key": "sky-blue"
+            },
+            {
+                "url": "assets/images/Ball/sky-blue-ball.png",
+                "type": "image",
+                "key": "sky-blue-ball"
+            },
+            {
+                "url": "assets/images/star/sky-blue-star.png",
+                "type": "image",
+                "key": "sky-blue-star"
+            },
+            {
+                "url": "assets/images/star/white.png",
+                "type": "image",
+                "key": "white"
+            },
+            {
+                "url": "assets/images/Ball/white-ball.png",
+                "type": "image",
+                "key": "white-ball"
+            },
+            {
+                "url": "assets/images/color-wall/yellow.png",
+                "type": "image",
+                "key": "yellow"
+            },
+            {
+                "url": "assets/images/Ball/yellow-ball.png",
+                "type": "image",
+                "key": "yellow-ball"
+            },
+            {
+                "url": "assets/images/partical_ball/yellow-particle.png",
+                "type": "image",
+                "key": "yellow-particle"
+            },
+            {
+                "url": "assets/images/star/yellow-star.png",
+                "type": "image",
+                "key": "yellow-star"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

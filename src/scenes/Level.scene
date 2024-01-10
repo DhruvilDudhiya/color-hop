@@ -1,0 +1,77 @@
+{
+    "id": "01aefa93-6044-4159-8358-7e91310aa05f",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Level",
+        "borderWidth": 1080,
+        "borderHeight": 1920
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "4fa8de74-fe43-4c44-9af1-ceca21c70c41",
+            "label": "bglayer",
+            "components": [],
+            "texture": {
+                "key": "bglayer"
+            },
+            "x": 540,
+            "y": 960
+        },
+        {
+            "type": "Text",
+            "id": "8ffc9f0e-7792-4d59-ac8c-ef8fe297d6a3",
+            "label": "scoreText",
+            "scope": "CLASS",
+            "components": [],
+            "x": 540,
+            "y": 960,
+            "scaleX": 3,
+            "scaleY": 3,
+            "originX": 0.5,
+            "originY": 0.5,
+            "alpha": 0.1,
+            "alphaTopLeft": 0.1,
+            "alphaTopRight": 0.1,
+            "alphaBottomLeft": 0.1,
+            "alphaBottomRight": 0.1,
+            "text": "0",
+            "fontSize": "250px"
+        },
+        {
+            "type": "Container",
+            "id": "212b0557-360f-4c98-a452-a9902292aa3d",
+            "label": "container_wall",
+            "scope": "CLASS",
+            "components": [],
+            "list": []
+        },
+        {
+            "type": "Text",
+            "id": "31f07bd6-305b-45e1-b576-a20c041ed3d6",
+            "label": "tap_text",
+            "scope": "CLASS",
+            "components": [],
+            "x": 559,
+            "y": 1354,
+            "originX": 0.5,
+            "originY": 0.5,
+            "alpha": 0.8,
+            "alphaTopLeft": 0.8,
+            "alphaTopRight": 0.8,
+            "alphaBottomLeft": 0.8,
+            "alphaBottomRight": 0.8,
+            "text": "TAP TO PLAY",
+            "fontSize": "80px"
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 3
+    }
+}
